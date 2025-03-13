@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cf5167b0.css",
+    "main.js": "/static/js/main.8f1a732e.js",
+    "static/js/453.1407b060.chunk.js": "/static/js/453.1407b060.chunk.js",
+    "static/media/knsweb.png": "/static/media/knsweb.b66a2f9a43a93bf5931b.png",
+    "static/media/bikeweb.png": "/static/media/bikeweb.27346aa6b5c0460f313a.png",
+    "static/media/collectionsweb.png": "/static/media/collectionsweb.27093ef6bf8a5594de86.png",
+    "static/media/petweb.png": "/static/media/petweb.c44834fa0e9cceddb1a8.png",
+    "static/media/ecommerceweb.png": "/static/media/ecommerceweb.8af11948cc36365f7c6e.png",
+    "static/media/viviweb.png": "/static/media/viviweb.59e0403ca86f63c58b7a.png",
+    "static/media/profile_img.png": "/static/media/profile_img.32d4da4f4200543bbeaf.png",
+    "static/media/profileimage.jpeg": "/static/media/profileimage.bb73f4e2f48555e1e028.jpeg",
+    "static/media/call_icon.svg": "/static/media/call_icon.fec62cc3d3fb69f5ce5f05a0724a0425.svg",
+    "static/media/mail_icon.svg": "/static/media/mail_icon.9eae5516c8c1364a170e8b13ae4c18cf.svg",
+    "index.html": "/index.html",
+    "static/media/nav_underline.svg": "/static/media/nav_underline.c56cde277213bbba5816c05ee4d24f73.svg",
+    "static/media/theme_pattern.svg": "/static/media/theme_pattern.92278b3dbc4b903482e1d44b040aa98f.svg",
+    "static/media/location_icon.svg": "/static/media/location_icon.111157f177e78ee2c0025016c0206379.svg",
+    "static/media/arrow_icon.svg": "/static/media/arrow_icon.866a8d83b9723eed11e169d98d66ebc7.svg",
+    "main.cf5167b0.css.map": "/static/css/main.cf5167b0.css.map",
+    "main.8f1a732e.js.map": "/static/js/main.8f1a732e.js.map",
+    "453.1407b060.chunk.js.map": "/static/js/453.1407b060.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf5167b0.css",
+    "static/js/main.8f1a732e.js"
+  ]
+}
